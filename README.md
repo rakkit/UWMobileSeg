@@ -1,7 +1,7 @@
 ## Citation
 Please cite these papers in your publications if it helps your research:
 
-    @inproceedings{wang2020compact,
+    @inproceedings{wang2020UWMobileSeg,
       title={Compact and Fast Underwater Segmentation Network for Autonomous Underwater Vehicles},
       author={Wang, Jiangtao and Li, Baihua and Zhou, Yang and Rocco, Emanuele and Meng, Qinggang},
       booktitle={Proceedings of the Asian Conference on Computer Vision},
